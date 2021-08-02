@@ -10,10 +10,11 @@ Desktop.ini
 
 # npm
 node_modules
-package-lock.json
 *.log
 .env
 
+config/dev.js
+# package-lock.json
 # .vscode
 # .eslintrc.js
 # .prettierrc
